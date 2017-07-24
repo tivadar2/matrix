@@ -1,0 +1,17 @@
+C:/Users/Tivadar/Desktop/matrix/matrix.c:8: warning: Found unknown command `\Author'
+C:/Users/Tivadar/Desktop/matrix/matrix.h:121: warning: The following parameters of AddMat(Matrix *a, Matrix *b, Matrix *res) are not documented:
+  parameter 'res'
+C:/Users/Tivadar/Desktop/matrix/matrix.h:49: warning: The following parameters of InitMat(int width, int height, DefaultMatrixType type) are not documented:
+  parameter 'type'
+C:/Users/Tivadar/Desktop/matrix/matrix.h:148: warning: argument 'mat' of command @param is not found in the argument list of MulMat(Matrix *a, Matrix *b, Matrix *res)
+C:/Users/Tivadar/Desktop/matrix/matrix.h:148: warning: The following parameters of MulMat(Matrix *a, Matrix *b, Matrix *res) are not documented:
+  parameter 'b'
+C:/Users/Tivadar/Desktop/matrix/matrix.h:7: warning: Found unknown command `\Author'
+C:/Users/Tivadar/Desktop/matrix/matrix.h:121: warning: The following parameters of AddMat(Matrix *a, Matrix *b, Matrix *res) are not documented:
+  parameter 'res'
+C:/Users/Tivadar/Desktop/matrix/matrix.h:49: warning: The following parameters of InitMat(int width, int height, DefaultMatrixType type) are not documented:
+  parameter 'type'
+C:/Users/Tivadar/Desktop/matrix/matrix.h:148: warning: argument 'mat' of command @param is not found in the argument list of MulMat(Matrix *a, Matrix *b, Matrix *res)
+C:/Users/Tivadar/Desktop/matrix/matrix.h:148: warning: The following parameters of MulMat(Matrix *a, Matrix *b, Matrix *res) are not documented:
+  parameter 'b'
+C:/Users/Tivadar/Desktop/matrix/test.c:7: warning: Found unknown command `\Author'
